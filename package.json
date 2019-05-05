@@ -2,6 +2,7 @@
   "name": "test-task-table",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://serjilyashenko.github.io/table-test-task/",
   "dependencies": {
     "antd": "^3.16.6",
     "local-storage": "^2.0.0",
